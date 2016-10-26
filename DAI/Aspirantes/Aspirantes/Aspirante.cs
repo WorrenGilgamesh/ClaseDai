@@ -40,7 +40,7 @@ namespace Aspirantes
         {
             SqlConnection cnn;
             cnn = Connection.Connect();
-            SqlCommand cmd = new SqlCommand(String.Format("INSERT INTO aspirante(Nombre,Sexo,Fecha,Correo,Grado,Programa) VALUES('{0}','{1}','{2}','{3}','{4}','{5}')", a.nombre, a.sexo, a.convierteFecha(), a.correo, a.grado, a.ingenieria), cnn);
+            SqlCommand cmd = new SqlCommand(String.Format("INSERT INTO aspirante2(Nombre,Sexo,Fecha,Correo,Grado,Programa) VALUES('{0}','{1}','{2}','{3}','{4}','{5}')", a.nombre, a.sexo, a.convierteFecha(), a.correo, a.grado, a.ingenieria), cnn);
             int res = cmd.ExecuteNonQuery();
             cnn.Close();
             return res;
