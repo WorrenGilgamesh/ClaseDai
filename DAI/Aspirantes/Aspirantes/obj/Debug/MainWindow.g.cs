@@ -208,12 +208,6 @@ namespace Aspirantes {
             return;
             case 13:
             this.btn_agrega = ((System.Windows.Controls.Button)(target));
-            
-            #line 23 "..\..\MainWindow.xaml"
-            this.btn_agrega.Click += new System.Windows.RoutedEventHandler(this.btn_agrega_Click);
-            
-            #line default
-            #line hidden
             return;
             }
             this._contentLoaded = true;
