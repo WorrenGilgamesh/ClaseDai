@@ -20,7 +20,7 @@
         <CheckBox x:Name="rdBtn_5" Content="5°" HorizontalAlignment="Left" Margin="207,244,0,0" VerticalAlignment="Top"/>
         <ComboBox x:Name="cb_programa" HorizontalAlignment="Left" Margin="113,291,0,0" VerticalAlignment="Top" Width="254"/>
         <Label Content="Aspirantes Itam" HorizontalAlignment="Left" Margin="99,10,0,0" VerticalAlignment="Top" Height="35" Width="323" FontSize="18"/>
-        <Button x:Name="btn_agrega" Content="Agrega" HorizontalAlignment="Left" Margin="404,54,0,0" VerticalAlignment="Top" Width="75" Height="55"/>
+        <Button x:Name="btn_agrega" Content="Agrega" HorizontalAlignment="Left" Margin="404,54,0,0" VerticalAlignment="Top" Width="75" Height="55" Click="btn_agrega_Click"/>
 
     </Grid>
 </Window>
