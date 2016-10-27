@@ -20,7 +20,7 @@ namespace Aspirantes
             SqlConnection cnn;
             //Data Source=WORRENGILGAMESH;Initial Catalog=SistemaAspirantes;Integrated Security=True
             //Data Source=112SALAS12;Initial Catalog=SistemaAspirantes;Persist Security Info=True;User ID=sa;Password=sqladmin
-            cnn = new SqlConnection("Data Source=WORRENGILGAMESH;Initial Catalog=SistemaAspirantes;Integrated Security=True");
+            cnn = new SqlConnection("Data Source=112SALAS12;Initial Catalog=SistemaAspirantes;Persist Security Info=True;User ID=sa;Password=sqladmin");
             cnn.Open();
             MessageBox.Show("Conexion Exitosa");
             return cnn;
@@ -87,6 +87,21 @@ namespace Aspirantes
             try
             {
                 return Aspirante.eliminaAspirante(a);
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                MessageBox.Show(e.Message);
+                return -1;
+            }
+        }
+
+        public int ChecaUsuario(Usuario u)
+        {
+            try
+            {
+                return Usuario.BuscaUsuario(u);
 
             }
             catch (Exception e)

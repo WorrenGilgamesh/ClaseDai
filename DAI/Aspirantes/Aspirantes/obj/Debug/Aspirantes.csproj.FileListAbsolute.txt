@@ -34,3 +34,10 @@ C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\A
 C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Modifica.baml
 C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Reporte.g.cs
 C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Reporte.baml
+C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Modifica.g.cs
+C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Reporte.g.cs
+C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Aspirantes_MarkupCompile.lref
+C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Modifica.baml
+C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Reporte.baml
+C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\LogIn.baml
+C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\LogIn.g.cs

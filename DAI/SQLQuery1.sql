@@ -25,6 +25,12 @@ VALUES('Industrial');
 INSERT INTO Carreras
 VALUES('Negocios');
 
+CREATE TABLE Sesion
+(
+	usuario varchar(50) NOT NULL,
+	Contraseña varchar(50) NOT NULL,	
+);
+
 --SELECT Carreras.Programa FROM Carreras
 --SELECT aspirante.Nombre FROM aspirante
 --SELECT aspirante.correo,aspirante.grado,Carreras.Programa FROM aspirante INNER JOIN Carreras ON Carreras.idPrograma = aspirante.idPrograma WHERE aspirante.nombre = 'victor'

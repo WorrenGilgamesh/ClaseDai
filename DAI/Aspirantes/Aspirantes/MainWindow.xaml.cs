@@ -106,5 +106,12 @@ namespace Aspirantes
             Reporte reporte_frm = new Reporte();
             reporte_frm.Show();
         }
+
+        private void btn_inicioSesion_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            LogIn reporte_frm = new LogIn();
+            reporte_frm.Show();
+        }
     }
 }
