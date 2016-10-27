@@ -92,5 +92,19 @@ namespace Aspirantes
             Elimina frame = new Elimina();
             frame.Show();
         }
+
+        private void btn_modifica_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            Modifica elimina_frm = new Modifica();
+            elimina_frm.Show();
+        }
+
+        private void btn_reporte_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            Reporte reporte_frm = new Reporte();
+            reporte_frm.Show();
+        }
     }
 }

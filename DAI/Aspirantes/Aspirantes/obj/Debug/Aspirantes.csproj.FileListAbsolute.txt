@@ -14,3 +14,23 @@ C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Aspirant
 C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Aspirantes.pdb
 C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Elimina.baml
 C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Elimina.g.cs
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\bin\Debug\Aspirantes.exe.config
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Aspirantes.exe
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Aspirantes.pdb
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\bin\Debug\Aspirantes.exe
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\bin\Debug\Aspirantes.pdb
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Aspirantes.csprojResolveAssemblyReference.cache
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Elimina.baml
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\MainWindow.baml
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Elimina.g.cs
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\MainWindow.g.cs
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\App.g.cs
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Aspirantes_MarkupCompile.cache
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Aspirantes.g.resources
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Aspirantes.Properties.Resources.resources
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Aspirantes.csproj.GenerateResource.Cache
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Modifica.g.cs
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Aspirantes_MarkupCompile.lref
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Modifica.baml
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Reporte.g.cs
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Reporte.baml

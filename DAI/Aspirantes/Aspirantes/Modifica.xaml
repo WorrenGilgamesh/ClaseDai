@@ -1,0 +1,24 @@
+﻿<Window x:Class="Aspirantes.Modifica"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aspirantes"
+        mc:Ignorable="d"
+        Title="Modifica" Height="400.701" Width="410.46">
+    <Grid Loaded="Grid_Loaded" Margin="0,0,26,0">
+        <Label Content="Aspirante: " HorizontalAlignment="Left" Margin="22,66,0,0" VerticalAlignment="Top" Width="71"/>
+        <Label Content="Correo" HorizontalAlignment="Left" Margin="20,103,0,0" VerticalAlignment="Top" Width="99"/>
+        <Label x:Name="Grado" Content="Grado" HorizontalAlignment="Left" Margin="20,147,0,0" VerticalAlignment="Top" Width="99"/>
+        <Label x:Name="Ingeniería" Content="Label" HorizontalAlignment="Left" Margin="20,190,0,0" VerticalAlignment="Top" Width="99"/>
+        <RadioButton x:Name="radio1" GroupName="grado"  Content="4°" HorizontalAlignment="Left" Margin="115,152,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <RadioButton x:Name="radio2" GroupName="grado" Content="5°" HorizontalAlignment="Left" Margin="165,152,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radio3" GroupName="grado" Content="6°" HorizontalAlignment="Left" Margin="222,152,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn_modifica" Content="Modifica" HorizontalAlignment="Left" Margin="115,239,0,0" VerticalAlignment="Top" Width="158" Height="49" Click="btn_modifica_Click"/>
+        <ComboBox x:Name="cb_programa" HorizontalAlignment="Left" Margin="119,194,0,0" VerticalAlignment="Top" Width="143"/>
+        <ComboBox x:Name="cb_aspirante" HorizontalAlignment="Left" Margin="119,70,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="cb_aspirante_SelectionChanged"/>
+        <TextBox x:Name="tb_correo" HorizontalAlignment="Left" Height="23" Margin="115,107,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="252"/>
+        <Button x:Name="btn_regreso" Content="← " HorizontalAlignment="Left" Margin="19,10,0,0" VerticalAlignment="Top" Width="52" FontSize="22" Height="29" Click="btn_regreso_Click"/>
+
+    </Grid>
+</Window>

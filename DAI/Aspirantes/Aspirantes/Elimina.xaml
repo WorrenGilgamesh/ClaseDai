@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Elimina" Height="300" Width="300">
     <Grid Loaded="Grid_Loaded_1">
-        <Button Content="← " HorizontalAlignment="Left" Margin="19,10,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btn_regreso" Content="← " HorizontalAlignment="Left" Margin="19,10,0,0" VerticalAlignment="Top" Width="52" FontSize="22" Height="29" Click="btn_regreso_Click"/>
         <Label Content="Aspirante" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="95,37,0,0" Height="52" Width="86"/>
         <ComboBox x:Name="cb_aspirante" HorizontalAlignment="Left" Margin="78,106,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="cb_aspirante_SelectionChanged"/>
         <Button x:Name="btn_baja" Content="Dar de baja" HorizontalAlignment="Left" Margin="45,191,0,0" VerticalAlignment="Top" Width="192" Height="47" Click="btn_baja_Click"/>
