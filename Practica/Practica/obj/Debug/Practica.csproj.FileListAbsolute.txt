@@ -1,0 +1,15 @@
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\bin\Debug\Practica.exe.config
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\obj\Debug\Practica.csprojResolveAssemblyReference.cache
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\obj\Debug\MainWindow.baml
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\obj\Debug\MainWindow.g.cs
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\obj\Debug\App.g.cs
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\obj\Debug\Practica_MarkupCompile.cache
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\obj\Debug\Practica.g.resources
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\obj\Debug\Practica.Properties.Resources.resources
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\obj\Debug\Practica.csproj.GenerateResource.Cache
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\bin\Debug\Practica.exe
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\bin\Debug\Practica.pdb
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\obj\Debug\SegundaVentana.baml
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\obj\Debug\SegundaVentana.g.cs
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\obj\Debug\Practica.exe
+C:\Users\VOSORNIOM\Desktop\Dai\Practica\Practica\obj\Debug\Practica.pdb
