@@ -73,9 +73,10 @@ namespace Practica
             if (con != null)
             {
                 String query = "SELECT Users* FROM";
+                cmd = new SqlCommand(query, con);
                 dr= cmd.ExecuteReader();
-                dtaGrid.DataContext = dr;
-
+                dtaGrid.ItemsSource = dr;
+                dr.Close();
             }
         }
 
