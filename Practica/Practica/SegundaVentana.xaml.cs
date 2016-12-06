@@ -19,9 +19,19 @@ namespace Practica
     /// </summary>
     public partial class SegundaVentana : Window
     {
-        public SegundaVentana()
+        private String name;
+
+        public SegundaVentana(String name)
         {
             InitializeComponent();
+            this.name = name;
         }
+
+        private void lb_nombre_Loaded(object sender, RoutedEventArgs e)
+        {
+            lb_nombre.Content = lb_nombre.Content.ToString() + " " + name;
+        }
+
+
     }
 }

@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Controls;
 
 namespace Practica
 {
@@ -19,9 +20,10 @@ namespace Practica
             try
             {
                 SqlConnection cnn;
-                String computadora = "112SALAS31";
+                String computadora = "CC201-21";
                 String baseDatos = "Login";
-                cnn = new SqlConnection("Data Source=112SALAS31;Initial Catalog=Login;Persist Security Info=True;User ID=sa;Password=sqladmin");
+                cnn = new SqlConnection("Data Source=CC201-21;Initial Catalog=Login;Persist Security Info=True;User ID=sa;Password=sqladmin");
+                //tabla Users, id int; name navchar(50); pass navchar(50);
                 cnn.Open();
                 MessageBox.Show("Conexion Exitosa");
                 return cnn;
@@ -52,6 +54,7 @@ namespace Practica
                             res = true;
                         }
                     }
+                    dr.Close();
                     con.Close();
                 }
                 catch (Exception e)
@@ -61,8 +64,21 @@ namespace Practica
                     return res;
                 }               
             }
-            return res;
+            return res;        
         }
+
+        public void infoUser(DataGrid dtaGrid)
+        {
+            con = Connect();
+            if (con != null)
+            {
+                String query = "SELECT Users* FROM";
+                dr= cmd.ExecuteReader();
+                dtaGrid.DataContext = dr;
+
+            }
+        }
+
 
     }
 }

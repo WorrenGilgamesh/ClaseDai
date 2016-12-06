@@ -1,8 +1,10 @@
 ﻿<Window x:Class="Practica.SegundaVentana"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="SegundaVentana" Height="300" Width="300">
+        Title="SegundaVentana" Height="316" Width="582">
     <Grid>
-        
+        <Label Content="Bienvenido" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lb_nombre" Content="" HorizontalAlignment="Left" Margin="79,10,0,0" VerticalAlignment="Top" Loaded="lb_nombre_Loaded"/>
+
     </Grid>
 </Window>

@@ -37,7 +37,7 @@ namespace Practica
 
                 if (res)
                 {
-                    SegundaVentana segVen = new SegundaVentana();
+                    SegundaVentana segVen = new SegundaVentana(name);
                     segVen.Show();
                     this.Hide();
                 }
