@@ -32,6 +32,10 @@ namespace Practica
             lb_nombre.Content = lb_nombre.Content.ToString() + " " + name;
         }
 
-
+        private void dataGrid_Loaded(object sender, RoutedEventArgs e)
+        {
+            Conection con = new Conection();
+            con.infoUser(dataGrid);
+        }
     }
 }

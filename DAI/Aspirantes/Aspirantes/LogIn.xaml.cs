@@ -35,7 +35,7 @@ namespace Aspirantes
             String contraseña = tb_contraseña.ToString();
             Usuario us = new Usuario(usuario, contraseña);
             Connection con = new Connection();
-            int res = con.ChecaUsuario;
+            int res = con.ChecaUsuario(us);
             if (res > 0)
             {
                 MessageBox.Show("Se encontro");

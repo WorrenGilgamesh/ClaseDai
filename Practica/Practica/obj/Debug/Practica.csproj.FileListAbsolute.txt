@@ -28,3 +28,18 @@ C:\Users\sdist\Desktop\ClaseDai\Practica\Practica\obj\Debug\Practica_MarkupCompi
 C:\Users\sdist\Desktop\ClaseDai\Practica\Practica\obj\Debug\Practica.g.resources
 C:\Users\sdist\Desktop\ClaseDai\Practica\Practica\obj\Debug\Practica.Properties.Resources.resources
 C:\Users\sdist\Desktop\ClaseDai\Practica\Practica\obj\Debug\Practica.csproj.GenerateResource.Cache
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\bin\Debug\Practica.exe.config
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\obj\Debug\Practica.exe
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\obj\Debug\Practica.pdb
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\bin\Debug\Practica.exe
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\bin\Debug\Practica.pdb
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\obj\Debug\Practica.csprojResolveAssemblyReference.cache
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\obj\Debug\MainWindow.baml
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\obj\Debug\SegundaVentana.baml
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\obj\Debug\MainWindow.g.cs
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\obj\Debug\SegundaVentana.g.cs
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\obj\Debug\App.g.cs
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\obj\Debug\Practica_MarkupCompile.cache
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\obj\Debug\Practica.g.resources
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\obj\Debug\Practica.Properties.Resources.resources
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\Practica\Practica\obj\Debug\Practica.csproj.GenerateResource.Cache

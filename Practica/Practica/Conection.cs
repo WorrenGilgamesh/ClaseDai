@@ -22,7 +22,9 @@ namespace Practica
                 SqlConnection cnn;
                 String computadora = "CC201-21";
                 String baseDatos = "Login";
-                cnn = new SqlConnection("Data Source=CC201-21;Initial Catalog=Login;Persist Security Info=True;User ID=sa;Password=sqladmin");
+                //Data Source=WORRENGILGAMESH;Initial Catalog=Login;Integrated Security=True
+                //Data Source=CC201-21;Initial Catalog=Login;Persist Security Info=True;User ID=sa;Password=sqladmin
+                cnn = new SqlConnection("Data Source=WORRENGILGAMESH;Initial Catalog=Login;Integrated Security=True");
                 //tabla Users, id int; name navchar(50); pass navchar(50);
                 cnn.Open();
                 MessageBox.Show("Conexion Exitosa");
@@ -72,11 +74,10 @@ namespace Practica
             con = Connect();
             if (con != null)
             {
-                String query = "SELECT Users* FROM";
+                String query = "SELECT Users.* FROM Users";
                 cmd = new SqlCommand(query, con);
                 dr= cmd.ExecuteReader();
-                dtaGrid.ItemsSource = dr;
-                dr.Close();
+                dtaGrid.ItemsSource = dr;                
             }
         }
 

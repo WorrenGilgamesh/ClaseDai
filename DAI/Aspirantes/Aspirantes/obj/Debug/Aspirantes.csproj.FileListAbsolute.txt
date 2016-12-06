@@ -41,3 +41,5 @@ C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Modifica
 C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\Reporte.baml
 C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\LogIn.baml
 C:\Users\VOSORNIOM\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\LogIn.g.cs
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\LogIn.baml
+C:\Users\Worren Gilgamesh\Desktop\ClaseDai\DAI\Aspirantes\Aspirantes\obj\Debug\LogIn.g.cs
